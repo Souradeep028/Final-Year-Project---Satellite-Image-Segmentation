@@ -1,7 +1,7 @@
 # Final Year Project - Satellite Image Segmentation
 
 **Mentor:** Dr. Anjan Sarkar<br/>
-**Team members:** MD. Asif Khan, Souradeep Kr. Basu, Rajdeep De, Ramanti Shaw, Sudip Bose
+**Team members:** MD. Asif Khan, Souradeep Kr. Basu, Rajdeep De, Ramanti Shaw
 
 **About the project:**
 Images are increasingly available from a variety of sources, including drones and conventional high altitude satellites. Our aim is to produce intervention-specific maps with the relevant features and in a short timeframe. Thus, the goal is to train a model that can annotate different features of the provided image.

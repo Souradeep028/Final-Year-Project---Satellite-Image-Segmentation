@@ -14,10 +14,7 @@ In **Project I**, we used a satellite image consisting of different features suc
 **Dataset Source:** From Kaggle and also google images.
 
 **Dependencies:**
-Python >=3.6
-openCV
-Numpy
-Matplotlib
+Python >=3.6, openCV, Numpy, Matplotlib
 
 **How to run:**
 To run this project click on the following link:

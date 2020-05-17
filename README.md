@@ -1,6 +1,6 @@
 # Final Year Project - Satellite Image Segmentation
 
-**Mentor:** Dr. Anjan Sarkar
+**Mentor:** Dr. Anjan Sarkar<br/>
 **Team members:** MD. Asif Khan, Souradeep Kr. Basu, Rajdeep De, Ramanti Shaw, Sudip Bose
 
 **About the project:**
